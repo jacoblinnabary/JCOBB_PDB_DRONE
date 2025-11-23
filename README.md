@@ -18,3 +18,4 @@ Designed entirely in KiCad, with all source files included
 Purpose:
 This board simplifies wiring, reduces mess, and provides a mechanically solid mounting point for both the microcontroller and the high-current ESC connections in a compact drone platform.
 
+Future changes: Replacing ground and power traces with planes, and adding thermal relief to pads. This will allow for higher currents and easier routing of other traces. Standardizing the distance of the extra pins next to the nano, and matching the distances found on breadboards/protoboards. Ultimately, switching out the Arduino Nano to an STM32 would allow for add ons to be done easier.  
