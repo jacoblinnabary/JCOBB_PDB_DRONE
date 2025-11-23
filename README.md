@@ -1,5 +1,5 @@
 Overview:
-This project is a custom power distribution and control board designed for a small personal drone build. The PCB handles high-current battery routing to an external 40A ESC while providing a clean mounting and control platform for an Arduino Nano. The Nano generates PWM signals for the ESC and optionally handles additional sensor inputs or flight-related logic.
+This project is a custom power distribution and control board designed for a small personal drone build using the F450 drone frame. The PCB handles high-current battery routing to an external 40A ESC while providing a clean mounting and control platform for an Arduino Nano. The Nano generates PWM signals for the ESC and optionally handles additional sensor inputs or flight-related logic.
 
 Features
 
